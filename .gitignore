@@ -27,3 +27,4 @@ pkg
 # RVM files
 .ruby-version
 .ruby-gemset
+/vendor
