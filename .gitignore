@@ -28,3 +28,6 @@ pkg
 .ruby-version
 .ruby-gemset
 /vendor
+
+# VSCcode
+.vscode/*
